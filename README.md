@@ -8,3 +8,4 @@ Used techs:
 - TailwindCSS
 - Rsuite
 - Axios
+- 

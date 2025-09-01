@@ -11,7 +11,7 @@ import 'rsuite/dist/rsuite.min.css';
 ReactDOM.createRoot(document.getElementById('root')).render(
     <BrowserRouter>
         <Provider store={store}>
-            <App/>
+            <div></div>
         </Provider>
     </BrowserRouter>
 )
